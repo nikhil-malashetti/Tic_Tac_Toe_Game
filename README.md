@@ -44,6 +44,7 @@ The game includes:
 
 ## 👨‍💻 Author
 
-**👤 Nikhil Nataraj Malashetti**  
+**👤 Nikhil Malashetti**  
 
 ⭐ *If you liked this project, consider giving it a star on GitHub!*
+
